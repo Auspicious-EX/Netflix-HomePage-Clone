@@ -17,6 +17,9 @@ This repository contains a clone of the Netflix homepage, developed using HTML, 
 - **CSS**: For styling and layout, ensuring a visually appealing design.
 - **JavaScript**: For adding interactivity and dynamic content.
 
+### Change Api key 
+**Use https://www.themoviedb.org/ for the API key**
+
 
 
 ### Getting Started

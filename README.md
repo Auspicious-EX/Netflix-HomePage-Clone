@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Auspicious-EX/Weather.ex/blob/main/weather/banner.gif?raw=true)](https://)
+[![MasterHead](https://github.com/Auspicious-EX/Netflix-HomePage-Clone/blob/main/Netflix_clone-main/images/banner.gif?raw=true)](https://)
 
 # Netflix Homepage Clone
 
@@ -34,11 +34,11 @@ This repository contains a clone of the Netflix homepage, developed using HTML, 
 - **images/**: Directory containing images used in the clone.
 
 ### Screenshots
-[![MasterHead](https://github.com/Auspicious-EX/Weather.ex/blob/main/weather/banner.gif?raw=true)](https://)
+[![MasterHead](https://github.com/Auspicious-EX/Netflix-HomePage-Clone/blob/main/Netflix_clone-main/images/banner.gif?raw=true)](https://)
 
 ---
 
-[![MasterHead](https://github.com/Auspicious-EX/Weather.ex/blob/main/weather/banner.gif?raw=true)](https://)
+[![MasterHead](https://github.com/Auspicious-EX/Netflix-HomePage-Clone/blob/main/Netflix_clone-main/images/banner.gif?raw=true)](https://)
 
 ### Contributions
 Contributions are welcome! Feel free to submit issues and pull requests to enhance the functionality and design of the Netflix homepage clone.
